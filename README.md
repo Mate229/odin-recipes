@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about buidling a basic recipe website. This is a good time to showcase what i've learned on TOP so far. Starting with my CLI skills, to Git and Github basics to HTML skills i've just gained.# odin-recipes
