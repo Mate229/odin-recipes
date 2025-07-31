@@ -11,6 +11,7 @@ button {
     background-color: inherit;
     border-radius: 5px;
     font-family: inherit;
+    font-size: inherit;
 }
 
 button:hover {
