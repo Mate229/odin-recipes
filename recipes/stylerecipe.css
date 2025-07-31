@@ -3,6 +3,10 @@ body {
     font-size: larger;
 }
 
+img {
+    width: 100%;
+}
+
 a {
     text-decoration: none;
 }
