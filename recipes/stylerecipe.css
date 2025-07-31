@@ -1,0 +1,26 @@
+body {
+    font-family: Brush Script MT, cursive;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: inherit;
+    border-radius: 5px;
+    font-family: inherit;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+.suya {
+    color: inherit;
+}
+
+.suya:hover {
+    color: blue;
+}
